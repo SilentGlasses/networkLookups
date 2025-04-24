@@ -1,0 +1,8 @@
+adelaide-aus.enduserexp.com
+amsterdam-nl.enduserexp.com
+athens-gr.enduserexp.com
+atlanta-us.enduserexp.com
+auckland-nz.enduserexp.com
+bangkok-th.enduserexp.com
+barcelona-es.enduserexp.com
+beijing-chn.enduserexp.com
