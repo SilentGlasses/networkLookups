@@ -1,0 +1,2 @@
+hostname1.domain.com
+hostname2.domain.com
