@@ -1,3 +1,5 @@
+[![Pylint](https://github.com/SilentGlasses/networkLookups/actions/workflows/pylint.yml/badge.svg?branch=main)](https://github.com/SilentGlasses/networkLookups/actions/workflows/pylint.yml)
+
 # networkLookups
 
 For when you need to lookup up multiple Names or IPs of hosts using either as a base, mainly for when manually running `ping` or `dig` would not suffice.
