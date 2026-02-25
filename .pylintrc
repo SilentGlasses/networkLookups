@@ -1,0 +1,13 @@
+[MASTER]
+ignore-patterns=test_.*
+
+[MESSAGES CONTROL]
+disable=
+    C0114,  # missing-module-docstring
+    C0116,  # missing-function-docstring
+    C0103,  # invalid-name
+    W0621,  # redefined-outer-name
+    W1514   # unspecified-encoding
+
+[FORMAT]
+max-line-length=120
